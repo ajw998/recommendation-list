@@ -2,7 +2,7 @@
 
 A condensed learning resource list for other journeymen travelling on the same path.
 
-## Reading List
+## Book List
 
 ### Computer Science and Software Engineering 
 
@@ -38,11 +38,15 @@ A condensed learning resource list for other journeymen travelling on the same p
 
 * Darrell Huff, *How to Lie with Statistics* (Penguin 1991)
 
+* Sheldon Ross, *A First Course on Probability* (5th edn, Prentice-Hall 1997)
+
 ### Law
 
 * Tom Bingham, *The Rule of Law* (Penguin 2010)
 
-* Tom Bingham, *The Business of Judging: Selected Essays and Speeches: 1985-1999* (OUP 2011)
+* Tom Bingham, *The Business of Judging: Selected Essays and Speeches 1985-1999* (OUP 2011)
+
+* Tom Bingham, *Lives of the Law: Selected Essays and Speeches 2000 - 2010* (OUP 2011)
 
 * Brian Harris (ed), *The Literature of the Law* (Blackstone Press 2002)
 
@@ -51,3 +55,8 @@ A condensed learning resource list for other journeymen travelling on the same p
 ### Writing and Research
 
 * William Strunk Jr, *The Elements of Style* (4th edn, Pearson 1999)
+
+## Online articles
+
+* Chris Beams, [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) 
+
