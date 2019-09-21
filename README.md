@@ -16,6 +16,12 @@ A condensed learning resource list for other journeymen travelling on the same p
 
 * Andy Hunt and Dave Thomas, *The Pragmatic Programmer* (Addison Wesley 1999)
 
+* Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software*  (Pearson 2009)
+
+* John McGarthy et al, *Lisp 1.5 Programmer's Manual* (2nd edn, MIT Press 1985)
+
+* Steve McConnell, *Code Complete* (2nd edn, Microsoft 2004)
+
 * Marvin L Minsky, *Computation: Finite and Infinite Machiens* (Prentice-Hall 1967)
 
 * Andy Orams and Greg Wilson, *Beautiful Code: Leading Programmers Explain How They Think* (O' Reilly 2007)
@@ -54,9 +60,20 @@ A condensed learning resource list for other journeymen travelling on the same p
 
 ### Writing and Research
 
+* Ernest Gowers, *Plain Words* (Penguin 2015)
+
 * William Strunk Jr, *The Elements of Style* (4th edn, Pearson 1999)
+
+* Oxford University Press (ed), *New Hart's Rules: The Oxford Style Guide* (2nd edn, OUP 2014)
+
+## Non-fictions
+
+* Douglas Hofstadter, *Gödel, Escher, Bach: an Eternal Golden Braid* (Basic Books 1979)
+
+* Clifford Stoll, *The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage* (Doubleday 1989)
 
 ## Online articles
 
 * Chris Beams, [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) 
 
+* Sijin Joseph, [Programmer Competency Matrix](sijinjoseph.com/programmer-competency-matrix/)
