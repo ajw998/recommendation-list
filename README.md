@@ -77,3 +77,9 @@ A condensed learning resource list for other journeymen travelling on the same p
 * Chris Beams, [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) 
 
 * Sijin Joseph, [Programmer Competency Matrix](sijinjoseph.com/programmer-competency-matrix/)
+
+## Written work & Blogs
+
+* [Peter Norvig](http://norvig.com/), American Computer Scientist; Director of Research at Google
+
+* [Slate Star Codex](https://slatestarcodex.com/) by Scott Alexander (pen name), a US psychiatrist.
