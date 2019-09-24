@@ -1,6 +1,13 @@
 # Learning
 
-A condensed learning resource list for other journeymen travelling on the same path.
+A list of classic reading materials for other journeymen who are interested in
+the same *specialist* areas in law and computer science as I am.
+
+I have a particular interest in the following areas: 
+
+**Computer Science**: Software Engineering, Web Development, Data Structures and Algorithms, Information Visualisation
+
+**Law**: Public Law, Corporate Law, Corporate Governance
 
 ## Book List
 
@@ -48,6 +55,8 @@ A condensed learning resource list for other journeymen travelling on the same p
 
 ### Law
 
+* Adolf Berle and Gardiner Means, *The Modern Corporation and Private Property* (Transaction Publishers 1932)
+
 * Tom Bingham, *The Rule of Law* (Penguin 2010)
 
 * Tom Bingham, *The Business of Judging: Selected Essays and Speeches 1985-1999* (OUP 2011)
@@ -58,6 +67,8 @@ A condensed learning resource list for other journeymen travelling on the same p
 
 * A.T.H Smith, *Glanville Williams: Learning the Law* (14th edn, Sweet & Maxwell 2010)
 
+* Lynn Stout, *The Shareholder Value Myth: How Putting Shareholders First Harms Investors, Corporations, and the Public* (Berrett-Koehler Publishers 2012)
+
 ### Writing and Research
 
 * Ernest Gowers, *Plain Words* (Penguin 2015)
@@ -66,19 +77,33 @@ A condensed learning resource list for other journeymen travelling on the same p
 
 * Oxford University Press (ed), *New Hart's Rules: The Oxford Style Guide* (2nd edn, OUP 2014)
 
-## Non-fictions
+### Non-fictions
 
 * Douglas Hofstadter, *Gödel, Escher, Bach: an Eternal Golden Braid* (Basic Books 1979)
 
+* Kevin Mitnick and William Simon, *The Art of Deception* (Wiley & Sons 2003)
+
 * Clifford Stoll, *The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage* (Doubleday 1989)
+
+* Kim Zetter, *Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon* (Broadway Books 2015)
+
+## Case Law (England and Wales)
+
+* *Liversidge v Anderson* [1941] UKHL 1
+
+* *Salomon v A Salomon & Co Ltd* [1896] UKHL 1
 
 ## Online articles
 
 * Chris Beams, [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) 
 
-* Sijin Joseph, [Programmer Competency Matrix](sijinjoseph.com/programmer-competency-matrix/)
+* Sijin Joseph, [Programmer Competency Matrix](https://sijinjoseph.com/programmer-competency-matrix/)
 
 ## Written work & Blogs
+
+* [Julia Evans](https://jvns.ca), Canadian software developer
+
+* [Troy Hunt](https://www.troyhunt.com/), Australian web security expert
 
 * [Peter Norvig](http://norvig.com/), American Computer Scientist; Director of Research at Google
 
