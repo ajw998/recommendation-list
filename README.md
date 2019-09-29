@@ -1,7 +1,7 @@
 # Learning
 
 A list of classic reading materials for other journeymen who are interested in
-the same *specialist* areas in law and computer science as I am.
+the same *specialist* areas in law and computer science as I am. 
 
 I have a particular interest in the following areas: 
 
@@ -17,9 +17,11 @@ I have a particular interest in the following areas:
 
 * Frederick Brooks, *The Mythical Man-Month: Essays on Software Engineering* (2nd edn, Addison Wesley 1995)
 
-* James Kurose and Keith Ross, *Computer Networking: A Top-Down Approach* (7th edn, Pearson 2017)
-
 * Randal E Bryan and David R O'Hallaron, *Computer Systems: A Programmer's Perspective* (3rd edn, Pearson 2016)
+
+* Keith Cooper and Linda Torczon, *Engineer a Compiler* (2nd edn, Morgan Kaufmann 2011)
+
+* James Kurose and Keith Ross, *Computer Networking: A Top-Down Approach* (7th edn, Pearson 2017)
 
 * Andy Hunt and Dave Thomas, *The Pragmatic Programmer* (Addison Wesley 1999)
 
@@ -29,7 +31,7 @@ I have a particular interest in the following areas:
 
 * Steve McConnell, *Code Complete* (2nd edn, Microsoft 2004)
 
-* Marvin L Minsky, *Computation: Finite and Infinite Machiens* (Prentice-Hall 1967)
+* Marvin L Minsky, *Computation: Finite and Infinite Machines* (Prentice-Hall 1967)
 
 * Andy Orams and Greg Wilson, *Beautiful Code: Leading Programmers Explain How They Think* (O' Reilly 2007)
 
@@ -45,13 +47,21 @@ I have a particular interest in the following areas:
 
 * Edward Tufte, *The Visual Display of Quantitative Information* (2nd edn, Graphics Press 2007)
 
+### General Mathematics
+
+* Daniel Velleman, *How to Prove It: A Structured Approach* (3rd edn, Cambridge 2019)
+
 ### Statistics 
 
 * George Casella and Roger Berger, *Statistical Inference* (2nd edn, Duxbury 2002) 
 
+* Jerome H. Friedman, Robert Tibshirani, and Trevor Hastie, *The Elements of Statistical Learning* (2nd edn, Springer 2009)
+
 * Darrell Huff, *How to Lie with Statistics* (Penguin 1991)
 
 * Sheldon Ross, *A First Course on Probability* (5th edn, Prentice-Hall 1997)
+
+* Nate Silver, *The Signal and the Noise: The Art and Science of Prediction* (Penguin 2013)
 
 ### Law
 
@@ -89,7 +99,13 @@ I have a particular interest in the following areas:
 
 ## Case Law (England and Wales)
 
+### Public Law
+
+* *Entick v Carrington* [1765] EWHC KB J98 
+
 * *Liversidge v Anderson* [1941] UKHL 1
+
+### Company Law
 
 * *Salomon v A Salomon & Co Ltd* [1896] UKHL 1
 
@@ -98,6 +114,10 @@ I have a particular interest in the following areas:
 * Chris Beams, [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) 
 
 * Sijin Joseph, [Programmer Competency Matrix](https://sijinjoseph.com/programmer-competency-matrix/)
+
+## Papers
+
+* Georgios Varsamopoulos, How to write a technical paper (2004)
 
 ## Written work & Blogs
 
@@ -108,3 +128,7 @@ I have a particular interest in the following areas:
 * [Peter Norvig](http://norvig.com/), American Computer Scientist; Director of Research at Google
 
 * [Slate Star Codex](https://slatestarcodex.com/) by Scott Alexander (pen name), a US psychiatrist.
+
+## Twitter
+
+* Charlie Gerard [\@devdevcharlie](https://twitter.com/devdevcharlie)
