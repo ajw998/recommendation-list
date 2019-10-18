@@ -33,6 +33,8 @@ I have a particular interest in the following areas:
 
 * Marvin L Minsky, *Computation: Finite and Infinite Machines* (Prentice-Hall 1967)
 
+* Tim O' Reilly, *UNIX Power Tools* (3rd edn, O'Reilly Media 2002)
+
 * Andy Orams and Greg Wilson, *Beautiful Code: Leading Programmers Explain How They Think* (O' Reilly 2007)
 
 * Steven Skiena, *The Algorithm Design Manual* (2nd edn, Springer 2008)
@@ -114,6 +116,8 @@ I have a particular interest in the following areas:
 * Chris Beams, [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) 
 
 * Sijin Joseph, [Programmer Competency Matrix](https://sijinjoseph.com/programmer-competency-matrix/)
+
+* fatbusinessman.com, [My Favourite Git Commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
 
 ## Papers
 
