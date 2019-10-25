@@ -133,6 +133,8 @@ I have a particular interest in the following areas:
 
 * [Slate Star Codex](https://slatestarcodex.com/) by Scott Alexander (pen name), a US psychiatrist.
 
+* [2ality](https://2ality.com/) by Dr. Axel Rauschmayer, JavaScript specialist
+
 ## Twitter
 
 * Charlie Gerard [\@devdevcharlie](https://twitter.com/devdevcharlie)
