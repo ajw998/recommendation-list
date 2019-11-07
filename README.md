@@ -85,17 +85,23 @@ I have a particular interest in the following areas:
 
 * Ernest Gowers, *Plain Words* (Penguin 2015)
 
-* William Strunk Jr, *The Elements of Style* (4th edn, Pearson 1999)
-
 * Oxford University Press (ed), *New Hart's Rules: The Oxford Style Guide* (2nd edn, OUP 2014)
 
+* Wayne C Booth, Gregory G Colomb et al, *The Craft of Research* (2nd edn, Chicago University Press 2003)
+
+* William Strunk Jr, *The Elements of Style* (4th edn, Pearson 1999)
+
 ### Non-fictions
+
+* Greg Dyson, *Turing’s Cathedral* (Penguin 2012)
 
 * Douglas Hofstadter, *Gödel, Escher, Bach: an Eternal Golden Braid* (Basic Books 1979)
 
 * Kevin Mitnick and William Simon, *The Art of Deception* (Wiley & Sons 2003)
 
 * Clifford Stoll, *The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage* (Doubleday 1989)
+
+* Richard Thaler and Cass Sunstein, *Nudge* (Penguin 2009)
 
 * Kim Zetter, *Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon* (Broadway Books 2015)
 
@@ -142,3 +148,11 @@ I have a particular interest in the following areas:
 ## Twitter
 
 * Charlie Gerard [\@devdevcharlie](https://twitter.com/devdevcharlie)
+
+* Troy Hunt [\@troyhunt](https://twitter.com/troyhunt)
+
+## FAQ
+
+**Can I contribute to this list?** 
+
+Whoa! Someone actually read this! Sure! Please read [CONTRIBUTING.md](./CONTRIBUTING.md).
