@@ -125,6 +125,8 @@ I have a particular interest in the following areas:
 
 * fatbusinessman.com, [My Favourite Git Commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
 
+* Florents Tselai, [Modern Data Practice and the SQL Tradition](https://tselai.com/modern-data-practice-and-the-sql-tradition.html)
+
 ## Papers
 
 * Georgios Varsamopoulos, How to write a technical paper (2004)
@@ -143,7 +145,11 @@ I have a particular interest in the following areas:
 
 ## Good documentations
 
+* [Docker](https://docs.docker.com/)
+
 * [PostgreSQL](https://www.postgresql.org/docs/)
+
+* [React.js](https://reactjs.org/docs/getting-started.html)
 
 ## Twitter
 
