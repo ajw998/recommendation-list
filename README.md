@@ -105,6 +105,10 @@ I have a particular interest in the following areas:
 
 * Kim Zetter, *Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon* (Broadway Books 2015)
 
+### Miscenllaneous
+
+* Clifford Warren Ashley, *Ashley Book of Knots* (Bantam Doubleday Dell Publishing Group 1998)
+
 ## Case Law (England and Wales)
 
 ### Public Law
