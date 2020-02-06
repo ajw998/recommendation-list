@@ -131,6 +131,8 @@ I have a particular interest in the following areas:
 
 * Florents Tselai, [Modern Data Practice and the SQL Tradition](https://tselai.com/modern-data-practice-and-the-sql-tradition.html)
 
+* Vector Poem, [Coelacanth: Lessons from Doom](http://vectorpoem.com/news/?p=74)
+
 ## Papers
 
 * Georgios Varsamopoulos, How to write a technical paper (2004)
