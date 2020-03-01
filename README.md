@@ -61,6 +61,8 @@ I have a particular interest in the following areas:
 
 * Darrell Huff, *How to Lie with Statistics* (Penguin 1991)
 
+* Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani, *An Introduction to Statistical Learning with Applications in R* (Springer 2017)
+
 * Sheldon Ross, *A First Course on Probability* (5th edn, Prentice-Hall 1997)
 
 * Nate Silver, *The Signal and the Noise: The Art and Science of Prediction* (Penguin 2013)
