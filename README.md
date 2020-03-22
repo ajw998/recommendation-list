@@ -111,6 +111,8 @@ I have a particular interest in the following areas:
 
 * Clifford Warren Ashley, *Ashley Book of Knots* (Bantam Doubleday Dell Publishing Group 1998)
 
+* Andrew Loomis, *Drawing the Head and Hands* (Titan Books 2011)
+
 ## Case Law (England and Wales)
 
 ### Public Law
