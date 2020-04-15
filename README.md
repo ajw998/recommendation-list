@@ -129,6 +129,8 @@ I have a particular interest in the following areas:
 
 * Chris Beams, [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) 
 
+* Martin Casado and Matt Bornstein, [The New Business of AI (and How It’s Different From Traditional Software)](https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software/)
+
 * Sijin Joseph, [Programmer Competency Matrix](https://sijinjoseph.com/programmer-competency-matrix/)
 
 * fatbusinessman.com, [My Favourite Git Commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
@@ -137,7 +139,11 @@ I have a particular interest in the following areas:
 
 * Vector Poem, [Coelacanth: Lessons from Doom](http://vectorpoem.com/news/?p=74)
 
-## Papers
+## Papers & Publications
+
+* John Armour and David Skeel, Who Writes the Rules for Hostile Takeovers, and Why? The Peculiar Divergence of US and UK Takeover Regulation (2007) 95 Georgetown Law Journal 1727
+
+* Jim Lehrer's Principles of Journalism published in 1997 Catto Report on Journalism and Society (1997)
 
 * Georgios Varsamopoulos, How to write a technical paper (2004)
 
@@ -146,6 +152,8 @@ I have a particular interest in the following areas:
 * [Julia Evans](https://jvns.ca), Canadian software developer
 
 * [Troy Hunt](https://www.troyhunt.com/), Australian web security expert
+
+* [Evan Miller](https://www.evanmiller.org/), Statistical Software Developer
 
 * [Peter Norvig](http://norvig.com/), American Computer Scientist; Director of Research at Google
 
