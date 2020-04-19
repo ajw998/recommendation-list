@@ -29,7 +29,7 @@ I have a particular interest in the following areas:
 
 * Erich Gamma, Richard Helm, Ralph Johnson, and John Vlissides, *Design Patterns: Elements of Reusable Object-Oriented Software*  (Pearson 2009)
 
-* John McGarthy et al, *Lisp 1.5 Programmer's Manual* (2nd edn, MIT Press 1985)
+* John McCarthy et al, *Lisp 1.5 Programmer's Manual* (2nd edn, MIT Press 1985)
 
 * Steve McConnell, *Code Complete* (2nd edn, Microsoft 2004)
 
