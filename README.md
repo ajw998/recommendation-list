@@ -13,6 +13,8 @@ I have a particular interest in the following areas:
 
 ### Computer Science and Software Engineering 
 
+* Harold Abelson, Gerald Jay Sussman, Julie Sussman, *Structure and Interpretation of Computer Programs* (MIT 1996)
+
 * Michael Abrash, *Michael Abrash's Graphics Programming Black Book: Special Edition* (Coriolis Group 1997)
 
 * Frederick Brooks, *The Mythical Man-Month: Essays on Software Engineering* (2nd edn, Addison Wesley 1995)
