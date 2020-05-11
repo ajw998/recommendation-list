@@ -1,11 +1,9 @@
-# Learning
+# Recommendation List
 
 A list of classic reading materials for other journeymen who are interested in
-the same *specialist* areas in law and computer science as I am. 
+the same *specialist* areas in law and computer science as mine. I have a particular interest in the following areas: 
 
-I have a particular interest in the following areas: 
-
-**Computer Science**: Software Engineering, Web Development, Data Structures and Algorithms, Information Visualisation
+**Computer Science**: Information Visualisation, Software Engineering, Artificial Intelligence 
 
 **Law**: Public Law, Corporate Law, Corporate Governance
 
@@ -35,9 +33,11 @@ I have a particular interest in the following areas:
 
 * Marvin L Minsky, *Computation: Finite and Infinite Machines* (Prentice-Hall 1967)
 
-* Tim O' Reilly, *UNIX Power Tools* (3rd edn, O'Reilly Media 2002)
+* Peter Norvig, *Paradigms of Artificial Intelligence Programming: Case Studies in Common Lisp* (Morgan Kaufmann 1992)
 
 * Andy Orams and Greg Wilson, *Beautiful Code: Leading Programmers Explain How They Think* (O' Reilly 2007)
+
+* Tim O' Reilly, *UNIX Power Tools* (3rd edn, O'Reilly Media 2002)
 
 * Steven Skiena, *The Algorithm Design Manual* (2nd edn, Springer 2008)
 
@@ -117,19 +117,23 @@ I have a particular interest in the following areas:
 
 ## Case Law (England and Wales)
 
-### Public Law
+* *Airdale NHS Trust v Bland* [1993] AC 789
+
+* *Attorney-General v Guardian Newspaper Ltd* [1987] 3 All ER 316
 
 * *Entick v Carrington* [1765] EWHC KB J98 
 
 * *Liversidge v Anderson* [1941] UKHL 1
 
-### Company Law
+* *R v John Wilkes* (1770) 4 Burr 2527
 
 * *Salomon v A Salomon & Co Ltd* [1896] UKHL 1
 
 ## Online articles
 
 * Chris Beams, [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/) 
+
+* defmacros.org, [The Nature of Lisp](http://www.defmacro.org/ramblings/lisp.html)
 
 * Martin Casado and Matt Bornstein, [The New Business of AI (and How It’s Different From Traditional Software)](https://a16z.com/2020/02/16/the-new-business-of-ai-and-how-its-different-from-traditional-software/)
 
@@ -143,9 +147,9 @@ I have a particular interest in the following areas:
 
 ## Papers & Publications
 
-* John Armour and David Skeel, Who Writes the Rules for Hostile Takeovers, and Why? The Peculiar Divergence of US and UK Takeover Regulation (2007) 95 Georgetown Law Journal 1727
+* John Armour and David Skeel, *Who Writes the Rules for Hostile Takeovers, and Why? The Peculiar Divergence of US and UK Takeover Regulation* (2007) 95 Georgetown Law Journal 1727
 
-* Jim Lehrer's Principles of Journalism published in 1997 Catto Report on Journalism and Society (1997)
+* Jim Lehrer's *Principles of Journalism* published in 1997 Catto Report on Journalism and Society (1997)
 
 * Georgios Varsamopoulos, How to write a technical paper (2004)
 
@@ -165,6 +169,10 @@ I have a particular interest in the following areas:
 
 ## Good documentations
 
+Well-written documentations.
+
+* [Django](https://docs.djangoproject.com/en/3.0/)
+
 * [Docker](https://docs.docker.com/)
 
 * [PostgreSQL](https://www.postgresql.org/docs/)
@@ -174,6 +182,8 @@ I have a particular interest in the following areas:
 ## Twitter
 
 * Charlie Gerard [\@devdevcharlie](https://twitter.com/devdevcharlie)
+
+* Shirley Wu [\@sxywu](https://twitter.com/sxywu)
 
 * Troy Hunt [\@troyhunt](https://twitter.com/troyhunt)
 
