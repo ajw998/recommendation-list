@@ -103,13 +103,15 @@ the same *specialist* areas in law and computer science as mine. I have a partic
 
 * Kevin Mitnick and William Simon, *The Art of Deception* (Wiley & Sons 2003)
 
+* Thomas Sowell, *Basic Economics: A Common Sense Gudie to the Economy* (5th edn, Basic Books 2014)
+
 * Clifford Stoll, *The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage* (Doubleday 1989)
 
 * Richard Thaler and Cass Sunstein, *Nudge* (Penguin 2009)
 
 * Kim Zetter, *Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon* (Broadway Books 2015)
 
-### Miscenllaneous
+### Miscellaneous
 
 * Clifford Warren Ashley, *Ashley Book of Knots* (Bantam Doubleday Dell Publishing Group 1998)
 
