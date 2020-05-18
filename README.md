@@ -153,6 +153,8 @@ the same *specialist* areas in law and computer science as mine. I have a partic
 
 * Jim Lehrer's *Principles of Journalism* published in 1997 Catto Report on Journalism and Society (1997)
 
+* Peter Naur, *Programming as Theory Building* (1985) 15(5) Microprocessing and Microprogramming 253
+
 * Georgios Varsamopoulos, How to write a technical paper (2004)
 
 ## Written work & Blogs
