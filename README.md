@@ -53,6 +53,8 @@ the same *specialist* areas in law and computer science as mine. I have a partic
 
 ### General Mathematics
 
+* Lewis Carroll, *Symbolic Logic* (2009)
+
 * Daniel Velleman, *How to Prove It: A Structured Approach* (3rd edn, Cambridge 2019)
 
 ### Statistics 
@@ -142,6 +144,8 @@ the same *specialist* areas in law and computer science as mine. I have a partic
 * Sijin Joseph, [Programmer Competency Matrix](https://sijinjoseph.com/programmer-competency-matrix/)
 
 * fatbusinessman.com, [My Favourite Git Commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
+
+* Megan Mcardle, [If Everyone Else is Such an Idiot, How Come You're Not Rich?](https://www.theatlantic.com/business/archive/2011/12/if-everyone-else-is-such-an-idiot-how-come-youre-not-rich/249430/)
 
 * Florents Tselai, [Modern Data Practice and the SQL Tradition](https://tselai.com/modern-data-practice-and-the-sql-tradition.html)
 
