@@ -5,7 +5,7 @@ recommended resource lists.
 
 ## Plans
 
-* Set up SQLite Database and being importing resource list entries.
+* [In-progress] Set up SQLite Database and being importing resource list entries.
 
 * Complete preliminary offline resource entry interface.
 
