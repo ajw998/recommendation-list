@@ -171,6 +171,10 @@ the same *specialist* areas in law and computer science as mine. I have a partic
 
 * [2ality](https://2ality.com/) by Dr. Axel Rauschmayer, JavaScript specialist
 
+## Videos
+
+* WeAreDevevlopers, 'DOOM\'s Development: A Year of Madness' (27 June 2018) <https://www.youtube.com/watch?v=eBU34NZhW7I>
+
 ## Good documentations
 
 Well-written documentations.
