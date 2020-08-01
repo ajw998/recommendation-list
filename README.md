@@ -3,7 +3,7 @@
 A list of classic reading materials for other journeymen who are interested in
 the same *specialist* areas in law and computer science as mine. I have a particular interest in the following areas: 
 
-**Computer Science**: Information Visualisation, Software Engineering, Artificial Intelligence 
+**Computer Science**: Information Visualisation, Software Engineering, Artificial Intelligence in Games
 
 **Law**: Public Law, Corporate Law, Corporate Governance
 
@@ -190,6 +190,8 @@ Well-written documentations.
 * [PostgreSQL](https://www.postgresql.org/docs/)
 
 * [React.js](https://reactjs.org/docs/getting-started.html)
+
+* [Rust](https://doc.rust-lang.org/book/) (known as *The Book*)
 
 ## Twitter
 
