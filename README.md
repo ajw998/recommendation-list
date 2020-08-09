@@ -201,6 +201,14 @@ Well-written documentations.
 
 * Troy Hunt [\@troyhunt](https://twitter.com/troyhunt)
 
+## Software Engineering Threads
+
+* [You shouldn't parse HTML with regex](https://stackoverflow.com/questions/1732348/regex-match-open-tags-except-xhtml-self-contained-tags)
+
+* [I am the reference](https://stackoverflow.com/questions/20762094/how-are-zlib-gzip-and-zip-related-what-do-they-have-in-common-and-how-are-they)
+
+* [Remove my password from list so hackers won't be able to hack me](https://github.com/danielmiessler/SecLists/pull/155)
+
 ## FAQ
 
 **Can I contribute to this list?** 
