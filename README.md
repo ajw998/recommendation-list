@@ -209,6 +209,9 @@ Well-written documentations.
 
 * [Remove my password from list so hackers won't be able to hack me](https://github.com/danielmiessler/SecLists/pull/155)
 
+* [What is the best comment in source code you have ever
+  encountered](https://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered)
+
 ## FAQ
 
 **Can I contribute to this list?** 
