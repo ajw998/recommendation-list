@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# Take from https://gist.github.com/cobyism/4730490
+
 if [ -z "$1" ]
 then
 	printf "Please provide the folder name you want to deploy to GitHub Pages!\n"
