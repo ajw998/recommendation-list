@@ -151,6 +151,8 @@ the same *specialist* areas in law and computer science as mine. I have a partic
 
 * Vector Poem, [Coelacanth: Lessons from Doom](http://vectorpoem.com/news/?p=74)
 
+* Wes De Silvestro, [The Prestige Trap](https://wesdesilvestro.com/the-prestige-trap)
+
 ## Papers & Publications
 
 * John Armour and David Skeel, *Who Writes the Rules for Hostile Takeovers, and Why? The Peculiar Divergence of US and UK Takeover Regulation* (2007) 95 Georgetown Law Journal 1727
