@@ -145,6 +145,8 @@ the same *specialist* areas in law and computer science as mine. I have a partic
 
 * fatbusinessman.com, [My Favourite Git Commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
 
+* Andreas Lundblad, [The most copied StackOverflow snippet of all time is flawed!](https://programming.guide/worlds-most-copied-so-snippet.html)
+
 * Megan Mcardle, [If Everyone Else is Such an Idiot, How Come You're Not Rich?](https://www.theatlantic.com/business/archive/2011/12/if-everyone-else-is-such-an-idiot-how-come-youre-not-rich/249430/)
 
 * Florents Tselai, [Modern Data Practice and the SQL Tradition](https://tselai.com/modern-data-practice-and-the-sql-tradition.html)
