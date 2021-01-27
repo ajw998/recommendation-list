@@ -3,10 +3,6 @@
 A list of classic reading materials for other journeymen who are interested in
 the same *specialist* areas in law and computer science as mine. I have a particular interest in the following areas: 
 
-**Computer Science**: Information Visualisation, Software Engineering, Artificial Intelligence in Games
-
-**Law**: Public Law, Corporate Law, Corporate Governance
-
 ## Book List
 
 ### Computer Science and Software Engineering 
@@ -38,6 +34,8 @@ the same *specialist* areas in law and computer science as mine. I have a partic
 * Andy Orams and Greg Wilson, *Beautiful Code: Leading Programmers Explain How They Think* (O' Reilly 2007)
 
 * Tim O' Reilly, *UNIX Power Tools* (3rd edn, O'Reilly Media 2002)
+
+* Robert Sedgewick, *Algorithms in C* (3rd edn, Addison-Wesley 2001)
 
 * Steven Skiena, *The Algorithm Design Manual* (2nd edn, Springer 2008)
 
@@ -145,9 +143,13 @@ the same *specialist* areas in law and computer science as mine. I have a partic
 
 * fatbusinessman.com, [My Favourite Git Commit](https://fatbusinessman.com/2019/my-favourite-git-commit)
 
+* gwern.net, [Surprisingly Turing Complete](https://www.gwern.net/Turing-complete#fn1)
+
 * Andreas Lundblad, [The most copied StackOverflow snippet of all time is flawed!](https://programming.guide/worlds-most-copied-so-snippet.html)
 
 * Megan Mcardle, [If Everyone Else is Such an Idiot, How Come You're Not Rich?](https://www.theatlantic.com/business/archive/2011/12/if-everyone-else-is-such-an-idiot-how-come-youre-not-rich/249430/)
+
+* Joel Spolsky, [The Perils of JavaSchools](https://www.joelonsoftware.com/2005/12/29/the-perils-of-javaschools-2/)
 
 * Florents Tselai, [Modern Data Practice and the SQL Tradition](https://tselai.com/modern-data-practice-and-the-sql-tradition.html)
 
