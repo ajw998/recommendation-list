@@ -217,8 +217,11 @@ Well-written documentations.
 
 * [Remove my password from list so hackers won't be able to hack me](https://github.com/danielmiessler/SecLists/pull/155)
 
-* [What is the best comment in source code you have ever
-  encountered](https://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered)
+* [What is the best comment in source code you have ever encountered](https://stackoverflow.com/questions/184618/what-is-the-best-comment-in-source-code-you-have-ever-encountered)
+
+* [Got home yet?](https://github.com/gkoberger/stacksort/pull/4#issuecomment-747656340)
+
+* [What is a callback?](https://stackoverflow.com/questions/2139812/what-is-a-callback/13128949#13128949)
 
 ## FAQ
 
