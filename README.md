@@ -157,6 +157,8 @@ the same *specialist* areas in law and computer science as mine. I have a partic
 
 * Wes De Silvestro, [The Prestige Trap](https://wesdesilvestro.com/the-prestige-trap)
 
+* Neal Stephenson, [In the Beginning was the Command Line](http://cristal.inria.fr/%7Eweis/info/commandline.html)
+
 * James Stuber, [Master the Boring Fundamentals](https://jamesstuber.com/boring-is-fun/)
 
 ## Papers & Publications
@@ -172,7 +174,7 @@ the same *specialist* areas in law and computer science as mine. I have a partic
 ## Written work & Blogs
 
 * [Julia Evans](https://jvns.ca), Canadian software developer
-
+(
 * [Troy Hunt](https://www.troyhunt.com/), Australian web security expert
 
 * [Evan Miller](https://www.evanmiller.org/), Statistical Software Developer
